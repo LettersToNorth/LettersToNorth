@@ -11,7 +11,7 @@
 
 - 🔭 正在折腾：个人博客搭建 & 全栈项目实战
 - 🌱 正在沉淀：源码阅读、线上故障复盘、职业下半场思考
-- ✍️ 内容输出：[夜雨寄北 · 代码手记](https://yeyujibei.com)（如果还没建好，先写个 `#` 占位）
+- ✍️ 内容输出：[夜雨寄北 · 代码手记](https://letters-to-north-blog.tongzhq94.workers.dev/)
 - 📫 联系我：hi@yeyujibei.com
 
 #### 🛠 技术栈
